@@ -5,7 +5,7 @@
         <classes>
 
             <!-- <class name="solevbot.tests.homepage.ChoiceNavigationRegressionTest"/> -->
-            <class name="check24.test.creditcard.ResultPage"/>
+            <class name="check24.test.creditcard.ResultPageTest"/>
 
 
         </classes>
