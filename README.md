@@ -31,6 +31,7 @@ This Test Automation Framework is made while considering following points:
 ![img_3.png](img_3.png)
 4. Create Run-Configuration for testNG by clicking on Run>Edit Configuration...
 ![img_4.png](img_4.png)
+add in VM option   -ea -Dtestng.dtd.http=true
 5. Add listner EmailableReporter, FailReporter and testHTMLReporter
 ![image](https://user-images.githubusercontent.com/22570719/130237451-c555ec4c-15b0-46f5-b2eb-ec3e5843351e.png)
 6. Click on Run and Run 'Execute'
