@@ -25,11 +25,7 @@ This Test Automation Framework is made while considering following points:
 ## Running Tests
 1. Create folder of your choice and navigate to it via command prompt.</br>
 ``` git clone https://github.com/saur-bh/check24Selenium.git``` </br>
-<<<<<<< HEAD
 ![img_2.png](img_2.png)
-=======
-[image](https://user-images.githubusercontent.com/22570719/156522786-b644b410-8ce8-45a3-9c6a-27582ff3f2be.png)
->>>>>>> 39f0febbf99b43dfabc141bca32a83522b56cb85
 2. Open IntelliJ IDE and Navigate to the folder which was cloned from git</br>
 3. Wait for dependencies to get download</br>
 ![img_3.png](img_3.png)
