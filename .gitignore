@@ -1,0 +1,5 @@
+# Project exclude paths
+/solvebot-framework/target/
+/solvebot-page-objects/target/
+/solvebot-regression-tests/target/
+/test-report/All Test Suite
